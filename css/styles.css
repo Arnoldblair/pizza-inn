@@ -1,0 +1,23 @@
+
+.nav {
+    float: right;
+}
+li {
+    display: inline;
+    margin-right: 20px;
+}
+.h-buttons {
+    margin-top: 90px;
+    margin-bottom: 100px;
+}
+
+.h-buttons button {
+    border-radius: 40px;
+    color: black;
+}
+
+.menu-btn {
+    border-radius: 20px;
+    margin-top: 20px;
+    color: #000;
+}
